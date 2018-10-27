@@ -6,8 +6,11 @@ command -v curl >/dev/null 2>&1 || { echo >&2 "I require curl but it's not insta
 #Creating an empty temporary file
 cat /dev/null > ~/tmp/mirrorspeeds.txt
 
+echo "Wait a second while I download the last mirror list"
+echo ""
+
 #Test every mirror on the list
-for i in `curl https://raw.githubusercontent.com/racuna/pclos-mirrorspeed/master/mirror_list.txt |awk '{print $2}'`
+for i in `curl -s -L https://www.dropbox.com/s/aps6wim7xvnxoam/sources.list?dl=1 |tail --lines=+5|sed 's/# //g' |awk '{print $2}'`
 do
 	echo "Calculating AVG speed for:"
 	echo $i
