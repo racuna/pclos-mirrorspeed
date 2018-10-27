@@ -4,6 +4,10 @@ Simple Bash script to compare the average speed of response of the different rep
 
 PCLinuxOS is a small Rolling Release Linux distro, and my personal favorite at the moment.
 
+## Requirements
+
+- curl
+
 ## Usage
 
 run pclos-mirrorspeed.sh and wait.
