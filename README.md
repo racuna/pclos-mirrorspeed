@@ -8,12 +8,12 @@ PCLinuxOS is a small Rolling Release Linux distro, and my personal favorite at t
 
 - curl
 
-## Usage
+## Instalation and Execution
 
-run pclos-mirrorspeed.sh and wait.
+`curl https://raw.githubusercontent.com/racuna/pclos-mirrorspeed/master/pclos-mirrorspeed.sh > pclos-mirrorspeed.sh && chmod +x pclos-mirrorspeed.sh && ./pclos-mirrorspeed.sh` 
 
 ## Change Repository
-After the speed comparision is important choose just one repo:
+IF you want to change the repository on PCLinuxOS after the speed comparision. Choose __just one__ repo:
 
 Open Synaptic:
 
