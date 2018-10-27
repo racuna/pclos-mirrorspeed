@@ -1,0 +1,15 @@
+rpm http://ftp.nluug.nl/pub/os/Linux/distr/pclinuxos/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4 
+rpm http://ftp.fau.de/pclinuxos/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://spout.ussg.indiana.edu/linux/pclinuxos/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://pclinuxos.c3sl.ufpr.br/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://mirror.uta.edu.ec/pclinuxos/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://mirror.cedia.org.ec/pclinuxos/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://ftp.cc.uoc.gr/mirrors/linux/pclinuxos/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://distrib-coffee.ipsl.jussieu.fr/pub/linux/pclinuxos/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://mirror.internode.on.net/pub/pclinuxos/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://mirror.aarnet.edu.au/pub/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://ftp.jaist.ac.jp/pub/Linux/PCLinuxOS/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://mirrors.uni-ruse.bg/pclinuxos/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://pclinuxos.mirror.wearetriple.com/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://ftp.klid.dk/ftp/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
+rpm http://mirrors.standaloneinstaller.com/pclinuxos/pclinuxos/apt/ pclinuxos/64bit x86_64 kde5 xfce4
