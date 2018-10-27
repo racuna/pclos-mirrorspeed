@@ -2,7 +2,7 @@
 
 Simple Bash script to compare the average speed of response of the different repository mirrors of PCLinuxOS.
 
-PCLinuxOS is a small Rolling Release Linux distro, and my personal favorite at the moment.
+[PCLinuxOS](http://pclinuxos.com/) is a small Rolling Release Linux distro, and my personal favorite at the moment.
 
 ## Requirements
 
