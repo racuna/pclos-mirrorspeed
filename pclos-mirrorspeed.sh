@@ -2,7 +2,7 @@
 
 cat /dev/null > ~/tmp/mirrorspeeds.txt
 
-for i in `cat mirror_list.txt |awk '{print $2}'`
+for i in `curl https://raw.githubusercontent.com/racuna/pclos-mirrorspeed/master/mirror_list.txt |awk '{print $2}'`
 do
 echo "Calculating AVG speed for:"
 echo $i
