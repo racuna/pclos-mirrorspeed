@@ -26,4 +26,4 @@ done
 
 #Show total results
 echo "Mirror list ordered by speed of response:"
-sort ~/tmp/mirrorspeeds.txt
+sort -n ~/tmp/mirrorspeeds.txt
